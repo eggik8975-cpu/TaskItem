@@ -1,0 +1,15 @@
+D:\дз\не заходить!!!!\TaskItem\TaskItem\bin\Debug\net10.0\TaskItem.exe
+D:\дз\не заходить!!!!\TaskItem\TaskItem\bin\Debug\net10.0\TaskItem.deps.json
+D:\дз\не заходить!!!!\TaskItem\TaskItem\bin\Debug\net10.0\TaskItem.runtimeconfig.json
+D:\дз\не заходить!!!!\TaskItem\TaskItem\bin\Debug\net10.0\TaskItem.dll
+D:\дз\не заходить!!!!\TaskItem\TaskItem\bin\Debug\net10.0\TaskItem.pdb
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.AssemblyInfoInputs.cache
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.AssemblyInfo.cs
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.csproj.CoreCompileInputs.cache
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.dll
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\refint\TaskItem.dll
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.pdb
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.genruntimeconfig.cache
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\ref\TaskItem.dll
+D:\дз\не заходить!!!!\TaskItem\TaskItem\obj\Debug\net10.0\TaskItem.csproj.Up2Date
